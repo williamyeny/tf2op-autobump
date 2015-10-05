@@ -1,0 +1,8 @@
+tf2outpost.com:
+  /:
+    
+    _session_id: !ruby/object:Mechanize::Cookie
+      name: uhash
+      value: your-cookie-hash-here
+      domain: .tf2outpost.com
+      path: /
