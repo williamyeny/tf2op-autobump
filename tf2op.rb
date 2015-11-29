@@ -18,7 +18,7 @@ while true
     if id.length > 0
       puts "Bumping #{id.length} trades!"
     else
-      puts "No trades to bump trades are already bummped"
+      puts "No trades to bump"
     end
 
     id.each do |i|
