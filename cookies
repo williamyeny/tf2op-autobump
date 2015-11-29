@@ -3,6 +3,6 @@ tf2outpost.com:
     
     _session_id: !ruby/object:Mechanize::Cookie
       name: uhash
-      value: your-cookie-hash-here
+      value: ed5c6592b71ee18a8f499d2978b89915
       domain: .tf2outpost.com
       path: /
